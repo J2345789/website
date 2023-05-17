@@ -1,0 +1,34 @@
+span {
+    font-family: 'zapfino';
+    color: blue;
+}
+
+h1 {
+    font-family: 'bodoni 72';
+}
+
+p {
+    font-family: 'optima';
+}
+
+.btn.btn-primary {
+    font-family: 'bodoni 72';
+    color: antiquewhite;
+}
+
+.btn.btn-secondary {
+    font-family: 'bodoni 72';
+    color: antiquewhite;
+}
+
+h2 {
+    font-family: 'Bodoni 72';
+}
+
+h3 {
+    font-family: 'bodoni 72';
+}
+
+.icon-link {
+    font-family: 'bodoni 72';
+}
